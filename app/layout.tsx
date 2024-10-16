@@ -1,6 +1,5 @@
 import Script from "@/node_modules/next/script";
-import type { Metadata } from "next";
-import localFont from "next/font/local";
+
 import "./globals.css";
 
 

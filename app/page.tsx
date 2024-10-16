@@ -4,7 +4,7 @@ import { WebApp } from "@/node_modules/@twa-dev/sdk/dist/sdk";
 import { useEffect, useState } from "react";
 
 interface UserData { 
-  id : Number; 
+  id : number; 
   first_name: string; 
   last_name? : string;
   username? : string;
